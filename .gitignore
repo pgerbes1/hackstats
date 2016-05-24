@@ -1,3 +1,5 @@
+# Stack specific
+.stack-work
 
 # Intellij-IDE specific
 .gradle/
