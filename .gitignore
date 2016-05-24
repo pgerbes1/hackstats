@@ -1,0 +1,6 @@
+
+# Intellij-IDE specific
+.gradle/
+.idea/
+build/
+seat-exchange-service.iml
