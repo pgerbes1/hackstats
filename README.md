@@ -1,5 +1,5 @@
 # hackstats
-Simple Haskell statistics library built using Stack. 
+Basic Haskell statistics library built using Stack. 
 
 Simple linear regression example. Pulls data from file and prints 
 coefficients. 
