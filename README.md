@@ -45,7 +45,7 @@ main = do
 Output: 
 
 ```
-Running testHaskellStack-exe...
+Running hackstats-exe...
 "{Results: ""[ Intercept: -2.000000000000231 , Slope: 0.4999999999999985 ]" }
 ```
 
