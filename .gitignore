@@ -1,6 +1,6 @@
 # Stack/Cabal/Haskell specific
-.stack-work/
-dist/
+.stack-work/*
+dist/*
 # Intellij-IDE specific
 .idea/
 build/
