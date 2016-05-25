@@ -1,8 +1,6 @@
-# Stack specific
+# Stack/Cabal/Haskell specific
 .stack-work/
-
+dist/
 # Intellij-IDE specific
-.gradle/
 .idea/
 build/
-seat-exchange-service.iml
