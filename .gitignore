@@ -1,6 +1,11 @@
 # Stack/Cabal/Haskell specific
-.stack-work/*
-dist/*
+#.stack-work/*
+#dist/*
 # Intellij-IDE specific
+#.idea/
+#build/
+*
 .idea/
-build/
+.stack-work/dist/x86_64-osx/Cabal-1.22.5.0/build/
+.stack-work/install/x86_64-osx/lts-5.18/7.10.3/bin/hackstats-exe
+dist/build/
