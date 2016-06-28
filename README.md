@@ -1,4 +1,4 @@
-# hackstats
+# Hackstats
 Basic Haskell statistics library built using Stack. 
 
 Simple linear regression example. Pulls data from file and prints 
@@ -48,4 +48,3 @@ Output:
 Running hackstats-exe...
 "{Results: ""[ Intercept: -2.000000000000231 , Slope: 0.4999999999999985 ]" }
 ```
-
